@@ -1,0 +1,97 @@
+
+## 题目地址(989. 数组形式的整数加法)
+
+https://leetcode-cn.com/problems/add-to-array-form-of-integer/
+
+## 题目描述
+
+```
+整数的 数组形式  num 是按照从左到右的顺序表示其数字的数组。
+
+例如，对于 num = 1321 ，数组形式是 [1,3,2,1] 。
+
+给定 num ，整数的 数组形式 ，和整数 k ，返回 整数 num + k 的 数组形式 。
+
+ 
+
+示例 1：
+
+输入：num = [1,2,0,0], k = 34
+输出：[1,2,3,4]
+解释：1200 + 34 = 1234
+
+
+示例 2：
+
+输入：num = [2,7,4], k = 181
+输出：[4,5,5]
+解释：274 + 181 = 455
+
+
+示例 3：
+
+输入：num = [2,1,5], k = 806
+输出：[1,0,2,1]
+解释：215 + 806 = 1021
+
+
+ 
+
+提示：
+
+1 <= num.length <= 104
+0 <= num[i] <= 9
+num 不包含任何前导零，除了零本身
+1 <= k <= 104
+```
+
+## 前置知识
+
+- 
+
+## 公司
+
+- 暂无
+
+## 思路
+
+## 关键点
+
+-  
+
+## 代码
+
+- 语言支持：Python3
+
+Python3 Code:
+
+```python
+
+class Solution:
+    def addToArrayForm(self, num: List[int], k: int) -> List[int]:
+        carry = 0
+        # 从低位到高位进行加法
+        # 判断是否需要进位
+        # 如果num比k大 就可以结束了
+        for i in range(len(num)-1,-1,-1):
+            num[i],carry  = (num[i] + k%10 + carry)%10,(num[i] + k%10 + carry)//10
+            k //= 10
+        # 如果num比k小 考虑继续进位
+        high = []
+        k = k + carry
+        if k:
+            high = [int(i) for i in str(k)]
+        return high + num
+        
+
+```
+
+
+**复杂度分析**
+
+令 n 为数组长度。
+
+- 时间复杂度：$O(n)$
+- 空间复杂度：$O(n)$
+
+
