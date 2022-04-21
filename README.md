@@ -21,3 +21,4 @@
 18. [二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)
 19. [两数之和](https://leetcode-cn.com/problems/two-sum)
 20. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+21. [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)
