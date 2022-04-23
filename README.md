@@ -23,3 +23,4 @@
 20. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
 21. [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)
 22. [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+23. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)
