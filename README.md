@@ -24,3 +24,5 @@
 21. [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)
 22. [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 23. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)
+24. [使数组和能被 P 整除](https://leetcode-cn.com/problems/make-sum-divisible-by-p/)
+25. [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
