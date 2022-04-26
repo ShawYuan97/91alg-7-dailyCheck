@@ -26,3 +26,4 @@
 23. [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)
 24. [使数组和能被 P 整除](https://leetcode-cn.com/problems/make-sum-divisible-by-p/)
 25. [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+26. [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
