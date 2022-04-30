@@ -30,3 +30,4 @@
 27. [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)
 28. [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 29. [找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)
+30. [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/)
