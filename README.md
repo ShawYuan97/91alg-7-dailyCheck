@@ -31,3 +31,5 @@
 28. [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 29. [找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)
 30. [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/)
+31. [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
+32. [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
