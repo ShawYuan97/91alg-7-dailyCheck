@@ -33,3 +33,4 @@
 30. [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/)
 31. [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
 32. [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
+33. [单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu/)
