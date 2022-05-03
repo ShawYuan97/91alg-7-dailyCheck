@@ -1,7 +1,7 @@
 # 91alg-7-dailyCheck
 记录91天刷题打卡过程
 题目列表如下：
-[2022/04](https://github.com/ShawYuan97/91alg-7-dailyCheck/tree/main/2022.04)
+## [2022/04](https://github.com/ShawYuan97/91alg-7-dailyCheck/tree/main/2022.04)
 1. [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)
 2. [字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 3. [设计一个支持增量操作的栈](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/)
@@ -32,7 +32,7 @@
 28. [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 29. [找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/)
 30. [可能的二分法](https://leetcode-cn.com/problems/possible-bipartition/)
-[2022/05](https://github.com/ShawYuan97/91alg-7-dailyCheck/tree/main/2022.05)
+## [2022/05](https://github.com/ShawYuan97/91alg-7-dailyCheck/tree/main/2022.05)
 31. [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
 32. [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 33. [单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu/)
