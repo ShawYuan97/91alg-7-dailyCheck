@@ -36,3 +36,4 @@
 31. [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
 32. [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 33. [单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu/)
+34. [你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played/)
