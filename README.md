@@ -37,3 +37,4 @@
 32. [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 33. [单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu/)
 34. [你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played/)
+35. [满足三条件之一需改变的最少字符数](https://leetcode-cn.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)
