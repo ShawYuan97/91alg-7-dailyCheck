@@ -41,4 +41,5 @@
 36. [排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 37. [x 的平方根](https://leetcode-cn.com/problems/sqrtx)
 38. [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version)
-39. [Triple Inversion](https://binarysearch.com/problems/Triple-Inversion)
+39. [Triple Inversion](https://binarysearch.com/problems/Triple-Inversion).
+40. [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius)
