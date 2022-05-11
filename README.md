@@ -43,3 +43,4 @@
 38. [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version)
 39. [Triple Inversion](https://binarysearch.com/problems/Triple-Inversion).
 40. [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius)
+41. [Kth Pair Distance](https://binarysearch.com/problems/Kth-Pair-Distance)
