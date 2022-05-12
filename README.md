@@ -44,3 +44,4 @@
 39. [Triple Inversion](https://binarysearch.com/problems/Triple-Inversion).
 40. [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius)
 41. [Kth Pair Distance](https://binarysearch.com/problems/Kth-Pair-Distance)
+42. [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/)
