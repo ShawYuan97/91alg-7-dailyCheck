@@ -45,3 +45,4 @@
 40. [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius)
 41. [Kth Pair Distance](https://binarysearch.com/problems/Kth-Pair-Distance)
 42. [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/)
+43. [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
