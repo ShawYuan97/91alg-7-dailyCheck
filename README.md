@@ -47,3 +47,5 @@
 42. [水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/)
 43. [定长子串中元音的最大数目](https://leetcode.cn/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 44. [新 21 点](https://leetcode-cn.com/problems/new-21-game)
+45. [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
+46. [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
