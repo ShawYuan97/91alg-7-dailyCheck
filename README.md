@@ -50,3 +50,4 @@
 45. [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
 46. [最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
 47. [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)
+48. [二进制手表](https://leetcode-cn.com/problems/binary-watch/)
