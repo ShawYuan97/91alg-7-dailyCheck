@@ -52,3 +52,5 @@
 47. [将 x 减到 0 的最小操作数](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)
 48. [二进制手表](https://leetcode-cn.com/problems/binary-watch/)
 49. [N 皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
+50. [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+51. [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
