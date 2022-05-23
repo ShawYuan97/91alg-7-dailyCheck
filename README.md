@@ -55,3 +55,4 @@
 50. [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
 51. [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 52. [Shortest Cycle Containing Target Node](https://binarysearch.com/problems/Shortest-Cycle-Containing-Target-Node)
+53. [Top View of a Tree](https://binarysearch.com/problems/Top-View-of-a-Tree)
