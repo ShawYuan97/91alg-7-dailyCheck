@@ -58,3 +58,4 @@
 53. [Top View of a Tree](https://binarysearch.com/problems/Top-View-of-a-Tree)
 54. [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 55. [打家劫舍](https://leetcode.cn/problems/house-robber/)
+56. [最长递增子序列的个数](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/)
