@@ -67,3 +67,7 @@
 ## [2022/06](https://github.com/ShawYuan97/91alg-7-dailyCheck/tree/main/2022.06)
 62. [目标和](https://leetcode-cn.com/problems/target-sum/)
 63. [零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+64. [零钱兑换 II](https://leetcode.cn/problems/coin-change-2/)
+65. [分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+66. [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)
+67. [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)
