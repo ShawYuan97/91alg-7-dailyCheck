@@ -74,3 +74,7 @@
 68. [不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)
 69. [合并 K 个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 70. [漂亮数组](https://leetcode-cn.com/problems/beautiful-array/)
+71. 
+72. 
+73. [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)
+74. 
