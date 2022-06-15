@@ -79,3 +79,4 @@
 73. [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)
 74. [键值映射](https://leetcode-cn.com/problems/map-sum-pairs)
 75. [面试题 17.17 多次搜索](https://leetcode-cn.com/problems/multi-search-lcci)
+76. [省份数量](https://leetcode.cn/problems/number-of-provinces/)
