@@ -80,3 +80,4 @@
 74. [键值映射](https://leetcode-cn.com/problems/map-sum-pairs)
 75. [面试题 17.17 多次搜索](https://leetcode-cn.com/problems/multi-search-lcci)
 76. [省份数量](https://leetcode.cn/problems/number-of-provinces/)
+77. [尽量减少恶意软件的传播](https://leetcode.cn/problems/minimize-malware-spread/)
