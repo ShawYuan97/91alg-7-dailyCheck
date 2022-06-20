@@ -82,3 +82,6 @@
 76. [省份数量](https://leetcode.cn/problems/number-of-provinces/)
 77. [尽量减少恶意软件的传播](https://leetcode.cn/problems/minimize-malware-spread/)
 78. [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/)
+79. [二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning)
+80. [组合总和](https://leetcode-cn.com/problems/combination-sum/)
+81. [组合总数 II](https://leetcode-cn.com/problems/combination-sum-ii/)
