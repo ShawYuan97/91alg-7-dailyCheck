@@ -87,3 +87,4 @@
 81. [组合总数 II](https://leetcode-cn.com/problems/combination-sum-ii/)
 82. [全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
 83. [实现 strStr()](https://leetcode.cn/problems/implement-strstr/)
+84. [实现 strStr()](https://leetcode.cn/problems/implement-strstr/)KMP
