@@ -88,3 +88,5 @@
 82. [全排列 II](https://leetcode-cn.com/problems/permutations-ii/)
 83. [实现 strStr()](https://leetcode.cn/problems/implement-strstr/)
 84. [实现 strStr()](https://leetcode.cn/problems/implement-strstr/)KMP
+85. [数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+86. [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
