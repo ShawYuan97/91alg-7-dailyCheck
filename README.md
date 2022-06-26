@@ -90,3 +90,4 @@
 84. [实现 strStr()](https://leetcode.cn/problems/implement-strstr/)KMP
 85. [数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 86. [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+87. [合并 K 个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
