@@ -93,3 +93,4 @@
 87. [合并 K 个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 88. [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/comments/)
 89. [有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+90. [距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/)
